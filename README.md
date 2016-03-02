@@ -2,7 +2,7 @@
 
 ##Self Intro
 - Name
-  Zegan Shang
+-- Zegan Shang
 - 2013301020030
 - Wuhan University
 - Physics Department
