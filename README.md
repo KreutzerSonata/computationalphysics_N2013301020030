@@ -1,7 +1,10 @@
 # computationalphysics_N2013301020030
 
 ##Self Intro
-- Zegan Shang
+- Name
+
+  Zegan Shang
+  
 - 2013301020030
 - Wuhan University
 - Physics Department
