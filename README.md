@@ -11,3 +11,4 @@
 ##Homework
 - [Homework 1](https://github.com/ZeganS/computationalphysics_N2013301020030/blob/master/README.md)
 - Homework 2
+- [Exercise 3](https://github.com/ZeganS/computationalphysics_N2013301020030/blob/master/Exercise%203.md)
