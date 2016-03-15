@@ -60,7 +60,7 @@
 ##Level 2
 反序输出自己的名字
 
--定义反序函数，使得字符串反转	
+- 定义反序函数，使得字符串反转	
 	#Level 2
 	  
 	  def reverse(str):                       #Define a function which can reverse a letter sequence
@@ -69,7 +69,7 @@
 	  		a.append(str[len(str)-1-n])
 	  	return ''.join(a)
 
--反序输出名字	  
+- 反序输出名字	  
 	  print 'Your name in reverse order:'     #Print the name in reverse order
 	  name0 = reverse(name)
 	  for i in range(5):
