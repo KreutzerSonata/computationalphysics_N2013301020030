@@ -44,7 +44,7 @@
 以正常顺序输出自己的名字
 
 	#Level 1
-	  print 'Your name in normal order:
+	  print 'Your name in normal order:'
 	  
 	  for i in range(5):
 	  	for j1 in range(len(name)):
@@ -81,7 +81,7 @@
 	                                  print letter[j][i],
 	                                  break
 	        print ''
-	
+	  
 	  raw_input()
 
 ##Level 3
