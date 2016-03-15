@@ -68,7 +68,7 @@
 		  a=[]
 		  for n in range(len(str)):
 	  		a.append(str[len(str)-1-n])
-	  	return ''.join(a)
+	  	  return ''.join(a)
 
 反序输出名字	  
 
@@ -80,7 +80,7 @@
 	                          if name0[j1] == all_letter[j]:
 	                                  print letter[j][i],
 	                                  break
-	          print ''
+	        print ''
 	
 	  raw_input()
 
