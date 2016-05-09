@@ -19,5 +19,5 @@
 - Homework 5
 
 - [Homework 6](https://www.zybuluo.com/Zegan/note/366541)
-- 
+
   模拟了炮弹的运行轨迹，考虑了重力加速度随高度的变化和空气阻力随空气密度的变化。之后将考虑由地球自转所产生的科里奥利力
