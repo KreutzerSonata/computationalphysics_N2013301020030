@@ -26,9 +26,7 @@ while True:
     print x[-1],y[-1]
 
 plot(x,y,'-',color='blue')
-text(15000,4000,'$g = 9.8 m/s^2$')
-text(15000,3500,'$v_0 = 700 m/s$')
-text(15000,3000,'$B_2/m = 4*10^{-5} m^{-1}$')
+
 
 ax=gca()
 ax.spines['right'].set_color('none')
