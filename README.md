@@ -24,4 +24,6 @@
 
 - Final
 
-  [Report]( computationalphysics_N2013301020030/Chapter3/从简谐振动到混沌.pdf )
+  [Report]( computationalphysics_N2013301020030/Chapter3/从简谐振动到混沌.pdf )\\
+  [code 1]( computationalphysics_N2013301020030/Chapter3/test.py )\\
+  [code 2]( computationalphysics_N2013301020030/Chapter3/p.py )
