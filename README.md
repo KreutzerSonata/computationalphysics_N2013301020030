@@ -24,6 +24,7 @@
 
 - Final
 
-  [Report]( computationalphysics_N2013301020030/Chapter3/从简谐振动到混沌.pdf )\\
-  [code 1]( computationalphysics_N2013301020030/Chapter3/test.py )\\
-  [code 2]( computationalphysics_N2013301020030/Chapter3/p.py )
+  [Report](https://github.com/ZeganS/computationalphysics_N2013301020030/blob/master/Chapter3/%E4%BB%8E%E7%AE%80%E8%B0%90%E6%8C%AF%E5%8A%A8%E5%88%B0%E6%B7%B7%E6%B2%8C.pdf)
+  
+  [code 1](https://github.com/ZeganS/computationalphysics_N2013301020030/blob/master/Chapter3/test.py)
+  [code 2](https://github.com/ZeganS/computationalphysics_N2013301020030/blob/master/Chapter3/p.py)
